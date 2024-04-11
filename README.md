@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NamPhuonn&label=Profile%20views&color=0e75b6&style=flat" alt="NamPhuonn" /> </p>
 
-- 🔭 I'm currently study Data science in University of Science.
+- 🔭 I'm currently studying Data science in University of Science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
