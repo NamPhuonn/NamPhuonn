@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NamPhuonn&label=Profile%20views&color=0e75b6&style=flat" alt="NamPhuonn" /> </p>
 
-- 🔭 I'm currently studying Data science in University of Science.
+- 🔭 I graduated from the University of Science last year, majoring in Computer Science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,6 +47,3 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamPhuonn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NamPhuonn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NamPhuonn&show_icons=true&locale=en&theme=tokyonight" alt="NamPhuonn" /></p>
